@@ -1,2 +1,2 @@
-# Leadsqaured
+# Leadsquared
 QA Test
